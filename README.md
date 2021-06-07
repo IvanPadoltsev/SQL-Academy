@@ -1,7 +1,5 @@
-# SQL-Academy
+# SQL-Academy.org
 
-
-ACC: noobasyan@gmail.com
 
 Задание 1: Вывести имена всех когда-либо обслуживаемых пассажиров авиакомпаний
 SELECT name from Passenger
